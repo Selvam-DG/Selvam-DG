@@ -12,13 +12,14 @@
 
 ---
 <p align="center">
-    <a href="#about-me">About</a>  ●  
-    <a href="live-metrics">Live Metrics</a> ●
-    <a href="tech-stack">Tech Stack</a> ● 
-    <a href="">Projects</a>  ●
-    <a href="widgets">Widgets</a> ●
-    <a href="connect">Connect</a>
+    <a href="#about-me">About</a> ●  
+    <a href="#live-metrics">Live Metrics</a> ●
+    <a href="#tech-stack">Tech Stack</a> ● 
+    <a href="#projects">Projects</a> ●
+    <a href="#widgets">Widgets</a> ●
+    <a href="#connect">Connect</a>
 </p>
+
 ---
 
 ## About Me
