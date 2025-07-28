@@ -12,12 +12,12 @@
 
 ---
 <p align="center">
-<a href="#about-me">About</a>     
-   ● <a href="live-metrics">Live Metrics</a>
-   ● <a href="tech-stack">Tech Stack</a> 
-   ● <a href="">Projects</a> 
-   ● <a href="widgets">Widgets</a> 
-   ● <a href="connect">Connect</a>
+    <a href="#about-me">About</a>  ●  
+    <a href="live-metrics">Live Metrics</a> ●
+    <a href="tech-stack">Tech Stack</a> ● 
+    <a href="">Projects</a>  ●
+    <a href="widgets">Widgets</a> ●
+    <a href="connect">Connect</a>
 </p>
 ---
 
@@ -28,6 +28,7 @@
 - Focus: Real-time computer vision • Automation • AI-driven decision systems
 
 ---
+
 ## Live Metrics
 <p align="center">
   <!-- GitHub Stats -->
@@ -87,6 +88,7 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selvamdasari55/)
