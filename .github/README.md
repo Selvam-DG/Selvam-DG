@@ -9,6 +9,11 @@
 </p>
 
 <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Software+Engineer;Automation+Enthusiast;AI+Explorer;Problem+solver" />
+
+</p>
+
+<p align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=Selvam-DG&show_icons=true&theme=vue-dark&count_private=true"/>
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selvam-DG&layout=compact&theme=vue-dark" />
 </p>
@@ -16,10 +21,10 @@
 ---
 
 ## About Me
-- 🎓 **M.Eng in Engineering Sciences** @ Technische Hochschule Rosenheim
-- 💼 Intern Software Engineer @ **Fischer Group**
-- 🧠 Passionate about building **intelligent, autonomous systems**
-- 🎯 Focus: Real-time computer vision • Automation • AI-driven decision systems
+- **M.Eng in Engineering Sciences** @ Technische Hochschule Rosenheim
+- Intern Software Engineer @ **Fischer Group**
+- Passionate about building **intelligent, autonomous systems**
+- Focus: Real-time computer vision • Automation • AI-driven decision systems
 
 ---
 
@@ -51,6 +56,12 @@
 
 ---
 
+## Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selvamdasari55/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dasariselvam321@gmail.com)
@@ -60,6 +71,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Selvam-DG&color=brightgreen" alt="profile views" />
 </p>
+
 
 
 
